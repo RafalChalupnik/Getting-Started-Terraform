@@ -5,9 +5,6 @@
 *.tfstate
 *.tfstate.*
 
-# .tfvars files
-*.tfvars
-
 # .tfplan files
 *.tfplan
 
@@ -17,6 +14,5 @@
 # .hcl files from Terraform v0.14 and newer
 *.hcl
 
-# working directory for web app
-/globo_web_app/*
-
+# macOS .DS_STORE files
+.DS_STORE
