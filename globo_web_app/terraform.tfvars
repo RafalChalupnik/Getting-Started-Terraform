@@ -1,2 +1,2 @@
 billing_code = "Revolut"
-project = "globo-web-app"
+project      = "globo-web-app"
